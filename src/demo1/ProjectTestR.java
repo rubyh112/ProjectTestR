@@ -13,6 +13,10 @@ public class ProjectTestR {
 		str1.add("r");
 		System.out.println(str1);
 
+		//remove z
+		str1.remove(0);
+		System.out.println(str1);
+
 	}
 
 }
